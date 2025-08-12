@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Azmeera Qureshi
 💻 PHP Developer | AI/ML Enthusiast | CS Engineer  <br>🧠 Building intelligent systems with practical applications  <br>🎓 MSc Computer Science @ Sapienza University, Rome 🇮🇹
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azmeera.qureshi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AzmeeraXplores) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/azmeera-qureshi-b92828338) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Azmeeraqureshi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/azmeera) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azmeeraqureshi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeeraqureshi@gmail.com) 
-
 
 # 💼 Professional Background:
 With **3+ years of experience** in full-stack web development, I've built and deployed real-world applications using **PHP, Laravel, CodeIgniter, JavaScript**, and **MySQL**. Recently, I’ve been expanding into **Machine Learning and Deep Learning**, applying AI to solve real-world problems through self-driven projects. 
@@ -23,42 +20,41 @@ With **3+ years of experience** in full-stack web development, I've built and de
 **Tools & Others:** <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-  
 
+# 🚀 Highlight Projects:
 
----<br><br>## 🚀 Highlight Projects<br><br>### 🔹 AI & Machine Learning<br><br>- **🧠 [AI Fitness Assistant](https://github.com/yourusername/ai-fitness-assistant)**  <br>  Pose-estimation-based fitness tracking app using CV to analyze side/front view and correct posture in real-time.<br><br>- **📘 [UML2SQL Generator](https://github.com/yourusername/uml2sql-generator)**  <br>  Converts UML (XMI 2.1) to SQL DDL and Schema XML with reverse transformations. Built with Streamlit + Python.<br><br>- **🌿 [Cotton Plant Health Classifier](https://github.com/yourusername/cotton-plant-health-ai)**  <br>  CNN-based classifier to detect diseased cotton plants — designed for agricultural support.<br><br>### 🔹 PHP & Web Development<br><br>- **📝 [Online Blog Management System](https://github.com/yourusername/blog-system)**  <br>  Dynamic blog with full CRUD, login/register system, likes, comments, categories, and responsive design.<br><br>- **🧪 [E-Testing System](https://github.com/yourusername/e-testing-system)**  <br>  Online examination platform with real-time testing, result generation, and admin dashboard.<br><br>- **🛒 [E-Commerce Projects (Laravel & CI)](https://github.com/yourusername/ecommerce-laravel)**  <br>  Shopping cart, product management, user authentication, payment simulation, and order tracking.<br><br>---<br><br>## 📚 Learning Focus (2025)<br><br>- ✅ Advanced Deep Learning (CNNs, LSTMs)<br>- ✅ TFLite Deployment for Mobile AI Apps<br>- ✅ Real-time AI in Web/IoT Integration<br>- ✅ Contributing to Open Source in AI
+🔹 **AI & Machine Learning**<br><br>- **🧠 [AI Fitness Assistant](https://github.com/yourusername/ai-fitness-assistant)**  <br>  Pose-estimation-based fitness tracking app using CV to analyze side/front view and correct posture in real-time.<br><br>- **📘 [UML2SQL Generator](https://github.com/yourusername/uml2sql-generator)**  <br>  Converts UML (XMI 2.1) to SQL DDL and Schema XML with reverse transformations. Built with Streamlit + Python.<br><br>- **🌿 [Cotton Plant Health Classifier](https://github.com/yourusername/cotton-plant-health-ai)**  <br>  CNN-based classifier to detect diseased cotton plants — designed for agricultural support.
 
+🔹 **PHP & Web Development**<br><br>- **📝 [Online Blog Management System](https://github.com/yourusername/blog-system)**  <br>  Dynamic blog with full CRUD, login/register system, likes, comments, categories, and responsive design.<br><br>- **🧪 [E-Testing System](https://github.com/yourusername/e-testing-system)**  <br>  Online examination platform with real-time testing, result generation, and admin dashboard.<br><br>- **🛒 [E-Commerce Projects (Laravel & CI)](https://github.com/yourusername/ecommerce-laravel)**  <br>  Shopping cart, product management, user authentication, payment simulation, and order tracking.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azmeera-quresh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azmeera-quresh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmeera-quresh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azmeera-quresh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=azmeera-quresh&icon=0&color=0)](https://visitcount.itsvg.in)
-
- ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AzmeeraQureshi) 
-
-### ✍️ Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
-<br><br>---<br><br>## 📫 Let's Connect<br><br>- 🔗 LinkedIn: [linkedin.com/in/azmeera](#)<br>- 🌐 Portfolio: [azmeera.dev](#) *(Coming soon)*<br>- 📧 Email: azmeeraqureshi@gmail.com<br><br>---<br><br>> *“From dynamic web systems to intelligent AI solutions — I build what solves real problems.”*  <br>> — Azmeera Qureshi<br>
-
-
-# 💻 Tech Stack:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azmeera-qureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azmeera-qureshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmeera-qureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 📚 Learning Focus (2025):
+<br>- ✅ Advanced Deep Learning (CNNs, LSTMs)<br>- ✅ TFLite Deployment for Mobile AI Apps<br>- ✅ Real-time AI in Web/IoT Integration<br>- ✅ Contributing to Open Source in AI
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azmeera-qureshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AzmeeraQureshi) 
+
+  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=azmeera-quresh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/azmeera-qureshi-b92828338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmeeraqureshi@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azmeera.qureshi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AzmeeraXplores) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azmeeraqureshi) 
+
+*“From dynamic web systems to intelligent AI solutions — I build what solves real problems.”*  <br>> — Azmeera Qureshi<br>
+
